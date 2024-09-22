@@ -12,7 +12,10 @@
       "**/core.python*": true,
       "**/CVS": true
    },
-   "files.autoSave": "afterDelay",
+   "files.autoSave": "onFocusChange",
    "workbench.colorTheme": "Visual Studio Light",
    "terminal.integrated.gpuAcceleration": "canvas",
+   "editor.fontFamily": "'Iosevka', 'monospace', monospace",
+   "editor.fontSize": 16,
+   "editor.detectIndentation": true,
 }
